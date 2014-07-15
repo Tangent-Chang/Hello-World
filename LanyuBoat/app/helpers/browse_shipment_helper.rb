@@ -1,0 +1,2 @@
+module BrowseShipmentHelper
+end
